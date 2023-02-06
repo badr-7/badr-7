@@ -1,10 +1,10 @@
 
 ![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
+
 <!--
-**badr-7/badr-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**badr-7/badr-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears 
 Here are some ideas to get you started:
-
+I created my GitHub profile to showcase my projects, contributions, and skills to potential employers and collaborate with other developers in the community
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
