@@ -1,7 +1,5 @@
 
-![Snake animation]
-https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg
-
+![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
 <!--
 **badr-7/badr-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
