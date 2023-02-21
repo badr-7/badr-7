@@ -1,5 +1,12 @@
 [![badr-7's 42 stats](https://badge.mediaplus.ma/greenbinary/mel-hous)](https://github.com/oakoudad/badge42)
 
+
+
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badr-7&show_icons=true)
 
 ![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
