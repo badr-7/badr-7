@@ -1,15 +1,9 @@
 [![badr-7's 42 stats](https://badge.mediaplus.ma/greenbinary/mel-hous)](https://github.com/oakoudad/badge42)
 
-
-
-
-
-
+![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badr-7&show_icons=true)
-
-![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **badr-7/badr-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears 
