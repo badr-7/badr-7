@@ -1,4 +1,4 @@
-[![badr-7's 42 stats](https://badge.mediaplus.ma/darkblue/mel-hous)](https://github.com/oakoudad/badge42)
+[![badr-7's 42 stats](https://badge.mediaplus.ma/black/mel-hous)](https://github.com/oakoudad/badge42)
 ![Snake animation](https://github.com/badr-7/badr-7/blob/output/github-contribution-grid-snake.svg)
 
 <!--
