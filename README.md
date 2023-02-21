@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=badr-7&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badr-7&langs_count=8)](https://github.com/badr-7/github-readmestats)
 
 
 <!--
@@ -20,4 +20,3 @@ I created my GitHub profile to showcase my projects, contributions, and skills t
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badr-7&langs_count=8)](https://github.com/badr-7/github-readmestats)
